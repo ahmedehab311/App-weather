@@ -1,0 +1,9 @@
+body{
+    background-color: #d5d4d4;
+}
+.contanier{
+    max-width: 1080px;
+    margin: 20px auto;
+    font-family: "Roboto" ,Arial !important;
+    
+}
